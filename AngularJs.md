@@ -62,3 +62,5 @@ Table of contents:
 
 ###### Lazy Load
 * [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
+
+# Performance 2
